@@ -37,23 +37,6 @@
 
 ---
 
-## Screens
-
-Add screenshots under `screenshots/` and reference them here.
-
-* **Home** — Daily goal, streak, quick actions
-* **Play** — Prompt card (Object + Concept), input field, submit & new prompt buttons
-* **History** — Reverse chronological list of your metaphors with scores
-
-```text
-screenshots/
-  home.png
-  play.png
-  history.png
-```
-
----
-
 ## Architecture
 
 * **State management:** `provider` + `ChangeNotifier` (simple and explicit)
@@ -269,10 +252,10 @@ This project is licensed under the **MIT License**. See `LICENSE` for details.
 ## Developer
 
 **Bektas Sari**
-Email: [bektas.sari@gmail.com](mailto:bektas.sari@gmail.com)
-GitHub: [https://github.com/bektas-sari](https://github.com/bektas-sari)
-LinkedIn: [www.linkedin.com/in/bektas-sari](http://www.linkedin.com/in/bektas-sari)
-Researchgate: [https://www.researchgate.net/profile/Bektas-Sari-3](https://www.researchgate.net/profile/Bektas-Sari-3)
-Academia: [https://independent.academia.edu/bektassari](https://independent.academia.edu/bektassari)
+Email: [bektas.sari@gmail.com](mailto:bektas.sari@gmail.com) <br>
+GitHub: [https://github.com/bektas-sari](https://github.com/bektas-sari)<br>
+LinkedIn: [www.linkedin.com/in/bektas-sari](http://www.linkedin.com/in/bektas-sari)<br>
+Researchgate: [https://www.researchgate.net/profile/Bektas-Sari-3](https://www.researchgate.net/profile/Bektas-Sari-3)<br>
+Academia: [https://independent.academia.edu/bektassari](https://independent.academia.edu/bektassari)<br>
 
 > If you use MetaphorLab in a class, workshop, or research, feel free to reach out — I’d love to hear about it.
