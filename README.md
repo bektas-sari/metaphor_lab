@@ -1,4 +1,4 @@
-# MetaphorLab
+# MetaphorLab (Flutter APP)
 
 *A minimalist, gamified Flutter app that helps you practice creative thinking by crafting metaphors from a random **Object + Concept** pair.*
 
